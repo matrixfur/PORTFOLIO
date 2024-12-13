@@ -1,11 +1,11 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "/home/user/portpholio/src/Assets/profile-pic.png";
+import myImg from "/home/user/portpholio/src/assets/profile-pic.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
+  //AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -96,14 +96,14 @@ function Home2() {
                 </a>
               </li>
                <li className="social-icons">
-                <a
+                {/*<a
                  // href="https://www.instagram.com/soumyajit4419"
                  // target="_blank"
                  // rel="noreferrer"
                 //  className="icon-colour home-social-icons"
                 >
                   
-                </a>
+                  </a>*/}
               </li>
             </ul>
           </Col>

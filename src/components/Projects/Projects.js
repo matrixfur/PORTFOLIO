@@ -6,9 +6,9 @@ import Particle from "../Particle";
 //import emotion from "../../Assets/Projects/emotion.png";
 //import editor from "../../Assets/Projects/codeEditor.png";
 //import chatify from "../../Assets/Projects/chatify.png";
-import NFT from "/home/user/portpholio/src/Assets/NFt.png";
-import FRACTIONAL from "/home/user/portpholio/src/Assets/solar.png";
-import anonxpose from "/home/user/portpholio/src/Assets/anonxpose.png"
+import NFT from "../../assets/NFt.png";
+import FRACTIONAL from "../../assets/solar.png";
+import anonxpose from "../../assets/anonxpose.png"
 function Projects() {
   return (
     <Container fluid className="project-section">
