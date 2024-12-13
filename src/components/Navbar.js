@@ -41,7 +41,8 @@ function NavBar() {
         <Navbar.Brand href="/" className="d-flex">
         <h1 style={{ fontSize: "2em" }}>
         <strong className="purple"><i>AH..</i></strong> 
-            </h1>
+  </h1>
+         
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
